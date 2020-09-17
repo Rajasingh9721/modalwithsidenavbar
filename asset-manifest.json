@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/modalwithsidenavbar/static/css/main.620e3d7a.chunk.css",
+    "main.js": "/modalwithsidenavbar/static/js/main.f05c0e5d.chunk.js",
+    "main.js.map": "/modalwithsidenavbar/static/js/main.f05c0e5d.chunk.js.map",
+    "runtime-main.js": "/modalwithsidenavbar/static/js/runtime-main.d8b9b514.js",
+    "runtime-main.js.map": "/modalwithsidenavbar/static/js/runtime-main.d8b9b514.js.map",
+    "static/js/2.26994248.chunk.js": "/modalwithsidenavbar/static/js/2.26994248.chunk.js",
+    "static/js/2.26994248.chunk.js.map": "/modalwithsidenavbar/static/js/2.26994248.chunk.js.map",
+    "index.html": "/modalwithsidenavbar/index.html",
+    "precache-manifest.57f1eb4506b0a80c5f64c84f4f65c6c5.js": "/modalwithsidenavbar/precache-manifest.57f1eb4506b0a80c5f64c84f4f65c6c5.js",
+    "service-worker.js": "/modalwithsidenavbar/service-worker.js",
+    "static/css/main.620e3d7a.chunk.css.map": "/modalwithsidenavbar/static/css/main.620e3d7a.chunk.css.map",
+    "static/js/2.26994248.chunk.js.LICENSE.txt": "/modalwithsidenavbar/static/js/2.26994248.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8b9b514.js",
+    "static/js/2.26994248.chunk.js",
+    "static/css/main.620e3d7a.chunk.css",
+    "static/js/main.f05c0e5d.chunk.js"
+  ]
+}
