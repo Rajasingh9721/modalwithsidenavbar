@@ -1,13 +1,62 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.mainbody{
+	background-image: linear-gradient(	#ff00ff,#ff0080);
+	height: 70vh;
+	margin:50px -8px  50px -8px;
+}
+.navcross{
+	font-size:30px;
+	cursor:pointer;
+	float: right;
+	color: blue;
+	margin-right: 10px;
+}
+.navcross1{
+	background-color: white;
+	width: 100%;
+	height: 60px
+}
+.sidenav,.container{
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  right: 0;
+  background-color: #fff;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  float: right;
+  box-shadow: 5px 5px 15px -5px rgba(0,0,0,0.9);
+}
+.sidenav a {
+  padding: 12px 8px 12px 32px;
+  text-decoration: none;
+  font-size: 15px;
+  border-top: 1px dashed #f1f1f1;
+  color: blue;
+  display: block;
+  transition: 0.3s;
+}
+.signup,.login,.forgetpassword{
+	display: none;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+ .closebtn2 {
+  position: absolute;
+  top: -10px;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
 }

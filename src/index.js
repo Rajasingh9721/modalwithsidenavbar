@@ -2,6 +2,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Signup from './signup.js'
+import Login from './login.js'
+import ForgetPassword from './forgetpassword.js'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
